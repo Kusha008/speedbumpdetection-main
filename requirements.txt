@@ -1,7 +1,8 @@
 streamlit
-ultralytics
 opencv-python-headless
-pillow
 numpy
+Pillow
+ultralytics
+nest-asyncio
 streamlit-webrtc
-av
+
