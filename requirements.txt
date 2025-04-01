@@ -1,0 +1,8 @@
+streamlit
+ultralytics
+opencv-python-headless
+pillow
+numpy
+streamlit-webrtc
+av
+torch==2.1.0+cpu
